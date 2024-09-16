@@ -1,1 +1,3 @@
-Statistical Analysis of wage gap data using Python.
+# WageGapAnalysis
+
+A statistical analysis of the gender wage gap in the US was conducting using a python Jupyter notebook, with data extracted from the Economic Policy Institute's State of Working America Data Library 2022. Python libraries such as numpy, pandas, matplotlib and scipy were used to perform statistical analyses on the gender wage gap over time. Data visualizaitons include histograms, PMFs, CDFs, log-normalizations, and linear regression. There was found to be a significant difference in the wage gap of those holding more advanced degrees. Review the presentation and Jupyter notebook for more information. 
